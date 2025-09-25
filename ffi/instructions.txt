@@ -1,0 +1,6 @@
+old (to build main cli):
+cl /EHsc /std:c++17 /MD main.cpp /link stable-diffusion.lib ggml-cuda.lib ggml.lib ggml-cpu.lib ggml-base.lib cudart.lib cublas.lib cublasLt.lib cuda.lib shell32.lib advapi32.lib
+
+To build sd_api.lib: 
+cl /c /O2 /MD /EHsc sd_api.cpp
+lib sd_api.obj stable-diffusion.lib ggml-cuda.lib ggml.lib ggml-cpu.lib ggml-base.lib cudart.lib cublas.lib cublasLt.lib cuda.lib shell32.lib advapi32.lib /OUT:sd_api.lib
