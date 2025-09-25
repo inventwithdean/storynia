@@ -5,10 +5,13 @@
 
 #### Demo: [TODO: Link YT Video]
 
+![Story In Action](storynia_gif.gif)
+
 ### Inspiration
 ---
 
 In the age of AI, creating visual stories should be accessible to everyone. However, generating *consistent* characters across different scenes is incredibly difficult, often requiring complex tools, powerful cloud GPUs, and expensive subscriptions. **Storynia** was born from a simple idea: what if anyone could create personalized, visually consistent stories right from their own computer, ensuring both privacy and creative ownership?
+
 
 
 ### What It Does
