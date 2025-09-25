@@ -1,18 +1,18 @@
 # Storynia
 
-**Your Personal AI Storytelling Studio, With Absolute Privacy.**
-
+### Your Personal AI Storytelling Studio, With Absolute Privacy.
 ---
 
-### Demo Video
-
-**[TODO: Link YT Video]**
+#### Demo: [TODO: Link YT Video]
 
 ### Inspiration
+---
 
 In the age of AI, creating visual stories should be accessible to everyone. However, generating *consistent* characters across different scenes is incredibly difficult, often requiring complex tools, powerful cloud GPUs, and expensive subscriptions. **Storynia** was born from a simple idea: what if anyone could create personalized, visually consistent stories right from their own computer, ensuring both privacy and creative ownership?
 
+
 ### What It Does
+---
 
 Storynia is a cross-platform desktop app that transforms you into a visual storyteller. The workflow is simple:
 
@@ -24,6 +24,7 @@ Storynia is a cross-platform desktop app that transforms you into a visual story
 The result is a seamless, iterative process of co-creation between you and the AI, producing a unique visual story with a consistent main character.
 
 ### Key Features
+---
 
 * **Offline-First & Private:** Character creation and image generation happen 100% on your device. Your data stays with you.
 * **Hyper-Personalization:** Use your own photos to inject yourself directly into your stories.
@@ -34,6 +35,7 @@ The result is a seamless, iterative process of co-creation between you and the A
 * **Cross-Platform:** Built with Tauri and Rust, Storynia is designed to run on Windows, macOS, and Linux. We currently provide Windows (x64) Binaries.
 
 ### Tech Stack & Architecture
+---
 
 Storynia is built on a unique hybrid architecture that combines the best of local and cloud processing.
 
@@ -44,9 +46,11 @@ Storynia is built on a unique hybrid architecture that combines the best of loca
 * **LLM:** Groq API (`gpt-oss-120b`) for high-speed text generation.
 
 ### Releases: 
+---
 #### https://github.com/inventwithdean/storynia/releases/tag/v0.1.0-alpha
 
 ### Future Work:
+---
 
 * Export stories to PDFs.
 * Add multilingual features.
