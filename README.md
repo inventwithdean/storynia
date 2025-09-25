@@ -31,7 +31,7 @@ The result is a seamless, iterative process of co-creation between you and the A
 
 * **Offline-First & Private:** Character creation and image generation happen 100% on your device. Your data stays with you.
 * **Hyper-Personalization:** Use your own photos to inject yourself directly into your stories.
-* **Cost Efficient**: This approach is highly cost efficient as only story's text generation happens on cloud resulting in over 1000 stories per $1.
+* **Cost Efficient**: This approach is highly cost efficient as only story's text generation happens on cloud resulting in more than 700 stories per $1.
 * **Hardware Friendly**: You don't need GPUs with 16 or 24GB of VRAM, this works even on a 8GB VRAM GPU while having very minimal loss in output quality.
 * **Consistent Characters:** Our workflow is designed to maintain character consistency across various actions, poses, and environments.
 * **Blazing Fast Storytelling:** The Groq LPU Inference Engine provides near-instant story and prompt generation.
