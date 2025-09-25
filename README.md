@@ -1,6 +1,6 @@
 # Storynia
 
-### Your Personal AI Storytelling Studio, With Absolute Privacy.
+### Your Personal AI Storytelling Studio, with Absolute Privacy.
 ---
 
 #### Demo: https://youtu.be/DW8CqkHcBc0
