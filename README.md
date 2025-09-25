@@ -3,7 +3,7 @@
 ### Your Personal AI Storytelling Studio, With Absolute Privacy.
 ---
 
-#### Demo: [TODO: Link YT Video]
+#### Demo: https://youtu.be/DW8CqkHcBc0
 
 ![Story In Action](storynia_gif.gif)
 
