@@ -50,7 +50,7 @@ Storynia is built on a unique hybrid architecture that combines the best of loca
 
 ### Releases: 
 ---
-#### https://github.com/inventwithdean/storynia/releases/tag/v0.1.0-alpha
+#### Coming Soon!
 
 ### Future Work:
 ---
